@@ -1,3 +1,7 @@
+Version 1 Under development.
+
+<img width="1280" height="758" alt="Screenshot 2025-08-11 at 3 42 48 PM" src="https://github.com/user-attachments/assets/3b28973d-b08a-4d49-9e0c-c7dda2603729" />
+
 # API Referenced Doc
 
 **Source:** [https://newsapi.org/](https://newsapi.org/) ✅
